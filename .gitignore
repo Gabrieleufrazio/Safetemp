@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Claude/Gemini
+.claude/
+.gemini/
+CLAUDE.md
+AGENTS.md
